@@ -1,0 +1,89 @@
+[[aiger]]
+arch = "aarch64"
+git-tree-sha1 = "8adea11d3d7a32bca1e4bbeb13d14cd04caf8f15"
+libc = "musl"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "56c31091b529af80049e980536b5b935568068dfd9ecc0d4f7a83e3e0948232e"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.aarch64-linux-musl.tar.gz"
+[[aiger]]
+arch = "aarch64"
+git-tree-sha1 = "2b5270ba9b62b96eb43342fc7cae41aaafd3f97e"
+libc = "glibc"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "7782ef9429e433e9b1341c3baf0343aa0f687127a02675e102730a16b8b1ad99"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.aarch64-linux-gnu.tar.gz"
+[[aiger]]
+arch = "x86_64"
+git-tree-sha1 = "ffb299f281c85931c7394a2dac631cca5ddb9f7c"
+libc = "glibc"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "a1d55b855e185b78f895c44f4f7efca3f032ea9549a002f98163c94d4640c3ec"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.x86_64-linux-gnu.tar.gz"
+[[aiger]]
+arch = "powerpc64le"
+git-tree-sha1 = "2f7795d5c61a47f110cbfd44a167db3fe3080c78"
+libc = "glibc"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "21bad262e33ec17eefeeea83bb625a1701b9b654eef985d1200a5bba7bc3c044"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.powerpc64le-linux-gnu.tar.gz"
+[[aiger]]
+arch = "x86_64"
+git-tree-sha1 = "9e7bfba9afc7a9cef1587399407dc52b89b5a650"
+os = "freebsd"
+
+    [[aiger.download]]
+    sha256 = "332fd613e381624943525bcfe1d26585166f0fe9e59123625dd4e41050f544c1"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.x86_64-unknown-freebsd11.1.tar.gz"
+[[aiger]]
+arch = "i686"
+git-tree-sha1 = "c9f434213937750e3f65ca2b4cf0651d77897c2d"
+libc = "glibc"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "1b25e18b662e15a540e55b2dd61ea71bf32e290b21f8e2a933c30d35e9b195b9"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.i686-linux-gnu.tar.gz"
+[[aiger]]
+arch = "i686"
+git-tree-sha1 = "baac63f5a8bd27e9e406adecee0b6cbc4bc61b8c"
+libc = "musl"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "a67b7340d60bce6c0da8cd2966383780aa6b7b581bf4700c9e0bc947b3d4e919"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.i686-linux-musl.tar.gz"
+[[aiger]]
+arch = "armv7l"
+git-tree-sha1 = "26f50984c38806d9ca4d39b5db14725513d11f55"
+libc = "glibc"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "d8aa36f60a49b585673d9ba073e145f8483ea9a2ee776ae7a53b6ee2fa98c279"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.armv7l-linux-gnueabihf.tar.gz"
+[[aiger]]
+arch = "x86_64"
+git-tree-sha1 = "21749aa27df663f812a280497d4d0f91775151b8"
+libc = "musl"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "6d75890ea4a25fec55cdbffd67d5e1c32ba9ee24f358ca5ff0fef451e430c891"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.x86_64-linux-musl.tar.gz"
+[[aiger]]
+arch = "armv7l"
+git-tree-sha1 = "6d4180a5066f1b32a12582a82d880544c909cb5d"
+libc = "musl"
+os = "linux"
+
+    [[aiger.download]]
+    sha256 = "7953e3ed892e0384123b1f29a3afd711cfa6a889cd116e4ddc82e0be215900c8"
+    url = "https://github.com/JuliaBinaryWrappers/aiger_jll.jl/releases/download/aiger-v1.9.9+0/aiger.v1.9.9.armv7l-linux-musleabihf.tar.gz"
